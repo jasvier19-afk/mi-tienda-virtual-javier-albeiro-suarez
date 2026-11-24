@@ -1,0 +1,38 @@
+/* Estilos generales sugeridos para la estructura */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    color: #29292d;
+}
+
+#menuNav a {
+    margin-right: 15px;
+    text-decoration: underline;
+    color: blue;
+}
+
+/* Estilo para las tarjetas de productos descritas en la guía */
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 250px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.valor {
+    font-weight: bold;
+}
+
+.foto-equipo{
+width: 160px;
+height: 164px;
+object-fit: cover;
+object-position: center top;
+display: block;
+margin: 0 auto 10px;
+}
